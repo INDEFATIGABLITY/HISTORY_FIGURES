@@ -11,6 +11,10 @@ The utilization of platforms like Azure Labs and GitHub significantly facilitate
 
 In essence, the History App represents a fusion of technology and history, offering users a novel way to explore the past while honing their understanding of historical figures. Its journey from conception to completion underscores the value of perseverance, resourcefulness, and collaboration in the realm of software development. As the app continues to evolve and garner contributions from the developer community, it stands as a testament to the power of innovation and shared knowledge in creating meaningful educational experiences. 
 
+GITHUB LINK : https://github.com/INDEFATIGABLITY/HISTORY_FIGURES.git
+
+YOUTUBE LINK : https://youtu.be/1C71PMOzgEc?si=lzDcaRZCdhTqt6CB
+
 
 
 
